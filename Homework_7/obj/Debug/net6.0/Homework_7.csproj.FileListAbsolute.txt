@@ -1,0 +1,15 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\bin\Debug\net6.0\Homework_7.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\bin\Debug\net6.0\Homework_7.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\bin\Debug\net6.0\Homework_7.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\bin\Debug\net6.0\Homework_7.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\bin\Debug\net6.0\Homework_7.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\refint\Homework_7.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\Homework_7.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Homeworc\Homework_7\obj\Debug\net6.0\ref\Homework_7.dll
